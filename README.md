@@ -1,6 +1,6 @@
 # Getting better with JavaScript
 
-![natural evolution](./images/human-evolution-lol.png)
+![natural evolution](./assets/images/human-evolution-lol.png)
 
 ##### Objective
 This is a simple project. The goal is to get better and understand JavaScript.
