@@ -51,6 +51,20 @@ Did put in an hour into a quick refresh with the videos in the Microsoft docs, B
 
 Moving this file from another repository to here. Today I'll be working again in the repo https://github.com/Alpakash/the-powerpuff-girls-es6 and implement TDD. I aim to "finish" this project today.
 
+## Day 13
+*15 december 2021*
+
+Slept really bad therefore had a late start, therefore missed my coding-block. However I did read a lot of interesting stuff from a senior developer from Slovenia named Swizec. I'm going to read his book "Serverless Handbook" for Frontend Engineers. I dead resome articles about him today and watch some of his videos about publishing a book:
+
+- https://swizec.com/blog/mocking-and-testing-fetch-requests-with-jest/
+- https://serverlessreact.dev
+- https://swizec.com/blog/why-programmers-work-at-night-2/
+- https://swizec.com/blog/how-i-sponsored-my-own-genius-visa/
+- https://swizec.com/blog/how-i-got-a-visa-normally-reserved-for-nobel-laureates/
+- https://www.youtube.com/watch?v=w1L2SgQuv6Q
+
+So I started with reading about mocking and testing a fetch request. Then after that I ended up reading about Swizec and his wide knowledge of frontend. I signed up for his newsletter cause I think it's straight-forward and teaches valueable lessons. So that's it for today. One more day well spend. Hope to have a good rest tonight.
+
 ---
 ## Thanks for the read.
 
