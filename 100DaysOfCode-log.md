@@ -69,6 +69,8 @@ So I started with reading about mocking and testing a fetch request. Then after 
 *21 december 2021*
 Today I read about DX (Developer Experience), I'm checking what some criteria should be for some good docs. Going to work further in an already existing project called DocQ. https://github.com/Alpakash/docq
 
+Removed relay from the 'start script' in the package.json. About to learn GraphQL https://graphql.org/ tomorrow and implement it into the project. Calling it a day. Tweeted (https://twitter.com/Alpakash0101/status/1473282856650780673) that I will stop with social media for now. This is because I want to have all my attention on the things that need my attention most such as coding, working-out and friends.
+
 ---
 ## Thanks for the read.
 
