@@ -65,6 +65,10 @@ Slept really bad therefore had a late start, therefore missed my coding-block. H
 
 So I started with reading about mocking and testing a fetch request. Then after that I ended up reading about Swizec and his wide knowledge of frontend. I signed up for his newsletter cause I think it's straight-forward and teaches valueable lessons. So that's it for today. One more day well spend. Hope to have a good rest tonight.
 
+## Day 15
+*21 december 2021*
+Today I read about DX (Developer Experience), I'm checking what some criteria should be for some good docs. Going to work further in an already existing project called DocQ. https://github.com/Alpakash/docq
+
 ---
 ## Thanks for the read.
 
