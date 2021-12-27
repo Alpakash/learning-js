@@ -71,5 +71,17 @@ const SlicingTheArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 console.log(SlicingTheArray.slice(4)); // should slice and return index 4 until last one (index 10)
 
 // "Join" returns a string out of Array
-let ConvertArrayToString = [{}, "Hello", 125, true, undefined, null, ];
+let ConvertArrayToString = [
+	{},
+	"Hello",
+	125,
+	true,
+	undefined,
+	null,
+	moment().format("DD-MM-YYYY"),
+	moment().format("[Today is] dddd")
+];
+
 console.log("Converted to String", ConvertArrayToString.join()); // [object Object],Hello,125,true,,
+console.log(ConvertArrayToString.join(" -> ")); // Specifies the seperator -> between indexes
+console.log([].join()); // means empty string;
