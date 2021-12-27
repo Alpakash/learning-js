@@ -2,6 +2,8 @@
  * https://www.freecodecamp.org/news/the-javascript-array-handbook/
 ****/
 
+console.log("%cPlaying with Array methods", "font-size: 30px; margin: 50px; font-weight: bold;");
+
 const arr = [1, 2, 3];
 
 // ⭐ Push method - Add an element to the end of and array and increment index for it
@@ -68,3 +70,6 @@ console.log("Add to index 0 ", Array2);
 const SlicingTheArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 console.log(SlicingTheArray.slice(4)); // should slice and return index 4 until last one (index 10)
 
+// "Join" returns a string out of Array
+let ConvertArrayToString = [{}, "Hello", 125, true, undefined, null, ];
+console.log("Converted to String", ConvertArrayToString.join()); // [object Object],Hello,125,true,,
